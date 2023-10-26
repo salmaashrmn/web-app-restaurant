@@ -1,1 +1,1 @@
-# web-app-restaurant
+# web-app-restaurant with .Net Core & SQL Server
